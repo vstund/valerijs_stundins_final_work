@@ -1,4 +1,4 @@
-package lv.lu.finalwork.repository;
+package main.lv.lu.finalwork.repository;
 
 import java.util.List;
 

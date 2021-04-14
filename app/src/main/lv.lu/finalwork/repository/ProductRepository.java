@@ -1,6 +1,8 @@
-package lv.lu.finalwork.repository;
+package main.lv.lu.finalwork.repository;
 
-import lv.lu.finalwork.model.Product;
+
+
+import main.lv.lu.finalwork.model.Product;
 
 import java.util.List;
 import java.util.Map;

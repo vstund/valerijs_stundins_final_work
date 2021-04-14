@@ -1,4 +1,4 @@
-package lv.lu.finalwork.model;
+package main.lv.lu.finalwork.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;
