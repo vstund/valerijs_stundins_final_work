@@ -1,6 +1,6 @@
-package teacher.finalwork.repository;
+package lv.lu.finalwork.repository;
 
-import teacher.finalwork.model.Product;
+import lv.lu.finalwork.model.Product;
 
 import java.util.List;
 import java.util.Map;
